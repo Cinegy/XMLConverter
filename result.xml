@@ -1,0 +1,7 @@
+<sample>
+  <value name="//SOME/LONG/XML" value="XML VALUE0" />
+  <value name="//SOME/LONG/XML[1]" value="XML VALUE1" />
+  <value name="//SOME/LONG/XML[1]^TO" value="TEST1" />
+  <value name="//SOME/LONG/XML[2]^TO" value="TEST2" />
+  <value name="//SOME/SIMPLE" value="SOME SIMPLE TEXT" />
+</sample>

@@ -1,0 +1,7 @@
+<sample>
+    <value name='//SOME/LONG/XML' value='[[//SOME/LONG/XML]]'/>
+	<value name='//SOME/LONG/XML[1]' value='[[//SOME/LONG/XML[1]]]'/>
+    <value name='//SOME/LONG/XML[1]^TO' value='[[//SOME/LONG/XML[1]^TO]]'/>
+	<value name='//SOME/LONG/XML[2]^TO' value='[[//SOME/LONG/XML[2]^TO]]'/>
+    <value name='//SOME/SIMPLE' value='[[//SOME/SIMPLE]]' />
+</sample>
